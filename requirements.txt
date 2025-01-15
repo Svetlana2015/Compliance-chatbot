@@ -1,0 +1,5 @@
+pandas
+nltk
+fuzzywuzzy
+
+sentence_transformers
